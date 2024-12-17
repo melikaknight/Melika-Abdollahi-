@@ -5,6 +5,8 @@
 [![Gmail](https://img.shields.io/badge/Email-abdollahi.mel@gmail.com-red)](mailto:abdollahi.mel@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-melikaknight-lightgrey)](https://github.com/melikaknight)  
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelikaknight%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false&count=48503)](https://github.com/melikaknight)
+
 
 
 ---
