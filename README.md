@@ -50,9 +50,12 @@ You can reach me at **[abdollahi.mel@gmail.com](mailto:abdollahi.mel@gmail.com)*
 
 ---
 # 📊 GitHub Stats:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelikaknight%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/melikaknight)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melika%20Abdollahi-blue)](https://linkedin.com/in/melika-abdollahi)  
-[![Gmail](https://img.shields.io/badge/Email-abdollahi.mel@gmail.com-red)](mailto:abdollahi.mel@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-melikaknight-lightgrey)](https://github.com/melikaknight)  
+![](https://github-readme-stats.vercel.app/api?username=melikaknight&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=melikaknight&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=melikaknight&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=melikaknight&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=melikaknight&icon=2&color=1)](https://visitcount.itsvg.in)
