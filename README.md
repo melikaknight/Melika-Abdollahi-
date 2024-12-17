@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melika%20Abdollahi-blue)](https://linkedin.com/in/melika-abdollahi)  
 [![Gmail](https://img.shields.io/badge/Email-abdollahi.mel@gmail.com-red)](mailto:abdollahi.mel@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-melikaknight-lightgrey)](https://github.com/melikaknight)  
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+
 
 ---
 
