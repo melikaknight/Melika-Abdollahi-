@@ -36,3 +36,16 @@ You can reach me at **[abdollahi.mel@gmail.com](mailto:abdollahi.mel@gmail.com)*
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 ---
+
+## 📈 Key Projects  
+
+1. **[Cryptocurrency Price Prediction](#)**  
+   Modular analysis framework using LSTM, GANs, and Transformers for trading insights.  
+
+2. **[Industrial Predictive Maintenance](#)**  
+   Real-time anomaly detection for equipment using LSTM and SVM time-series models.  
+
+3. **[ETL & Visualization Solutions](#)**  
+   Integrated predictive analytics with PowerBI dashboards for actionable business intelligence.  
+
+---
