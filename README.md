@@ -1,6 +1,6 @@
 # Melika Abdollahi - Data Scientist
 
-[![](https://visitcount.itsvg.in/api?id=melikaknight&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=melikaknight&icon=2&color=1)](https://visitcount.itsvg.in)                                 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Melika%20Abdollahi-blue)](https://linkedin.com/in/melika-abdollahi)  
 [![Gmail](https://img.shields.io/badge/Email-abdollahi.mel@gmail.com-red)](mailto:abdollahi.mel@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-melikaknight-lightgrey)](https://github.com/melikaknight)  
